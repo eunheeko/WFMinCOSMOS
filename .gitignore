@@ -1,2 +1,14 @@
-datas/cosmos2015.fits
-
+## folders
+bins/
+candidates/
+check/
+datas/
+datas_extra/
+figs/
+figures/
+images/
+members/
+mmodel/
+mock/
+uds/
+wmap/
